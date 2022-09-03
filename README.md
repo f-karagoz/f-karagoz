@@ -1,6 +1,7 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f-karagoz&theme=neon-dark&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f-karagoz&theme=Javascript-dark&background=000000)](https://git.io/streak-stats)
 
 <!--
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f-karagoz&theme=neon-dark&background=DD272700)](https://git.io/streak-stats)
 ### Hi there 👋
 
 **f-karagoz/f-karagoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,10 @@
+Hi, I generally work with ARM-Cortex-M series MCUs and develop mostly with C and C++. I am working as an Embedded System Developer, and have a Bachelor's degree in Electronic Engineering. I do PCB Hardware Designing too.<br/>
+
+- 🔭 I'm currently developing libraries for popular sensors with STM32 series MCUs.
+- 🌱 I'm currently learning parallel programming with C++, and design patterns.
+- 👨‍💻 You can read my [blog](https://electroprojecthub.com) about Embedded Systems.
+- 📬 To reach me DM me from [linkedin](https://www.linkedin.com/in/f-karagoz/).
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f-karagoz&theme=Javascript-dark&background=000000)](https://git.io/streak-stats)
 
 <!--

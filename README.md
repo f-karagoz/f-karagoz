@@ -1,4 +1,4 @@
-Hi, I generally work with ARM-Cortex-M series MCUs and develop mostly with C and C++. I am working as an Embedded System Developer, and have a Bachelor's degree in Electronic Engineering. I do PCB Hardware Designing too.<br/>
+Hi, I generally work with ARM-Cortex-M series MCUs and develop mostly with C and C++. I am working as an Embedded System Developer, and have a Bachelor's degree in Electronic Engineering. I am capable of designing and diagnosing PCB Hardware too.<br/>
 
 - 🔭 I'm currently developing libraries for popular sensors with STM32 series MCUs.
 - 🌱 I'm currently learning parallel programming with C++, and design patterns.
